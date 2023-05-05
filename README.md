@@ -7,6 +7,8 @@
 
 <h4 align="center">
 Fork of https://github.com/T8RIN/ImageResizer with following changes,
+  
+  
 - Removed Star emoji in main screen
 - Renamed App to ImageTweak Lite
 

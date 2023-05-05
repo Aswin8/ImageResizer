@@ -797,30 +797,7 @@ fun MainScreen(
                                                     }
                                                 )
                                             }
-                                    ) {
-                                        Icon(
-                                            imageVector = Icons.Rounded.Sparkles,
-                                            contentDescription = null,
-                                            modifier = Modifier
-                                                .size(
-                                                    with(LocalDensity.current) {
-                                                        LocalTextStyle.current.fontSize.toDp()
-                                                    }
-                                                )
-                                                .offset(1.dp, 1.dp),
-                                            tint = Color(0, 0, 0, 40)
-                                        )
-                                        Icon(
-                                            imageVector = Icons.Rounded.Sparkles,
-                                            contentDescription = null,
-                                            modifier = Modifier.size(
-                                                with(LocalDensity.current) {
-                                                    LocalTextStyle.current.fontSize.toDp()
-                                                }
-                                            ),
-                                            tint = Color.Unspecified
-                                        )
-                                    }
+                                    ) 
                                 }
                             }
                         }

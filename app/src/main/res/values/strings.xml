@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Image Resizer</string>
+    <string name="app_name" translatable="false">ImageTweak Lite</string>
     <string name="smth_went_wrong">Something went wrong: %1$s</string>
     <string name="size">Size %1$s</string>
     <string name="loading">Loading…</string>
@@ -69,7 +69,7 @@
     <string name="no_palette">Can not generate palette for given image</string>
     <string name="original">Original</string>
     <string name="folder">Output folder</string>
-    <string name="default_folder" translatable="false">DCIM/ResizedImages</string>
+    <string name="default_folder" translatable="false">Pictures/ImageTweak</string>
     <string name="def">Default</string>
     <string name="custom">Custom</string>
     <string name="unspecified">Unspecified</string>
@@ -103,8 +103,8 @@
     <string name="cannot_change_palette_while_dynamic_colors_applied">Can not change app color scheme while dynamic colors are turned on</string>
     <string name="pick_accent_color">App theme will be based on color, which you will select</string>
     <string name="about_app">About app</string>
-    <string name="app_developer" translatable="false">Malik Mukhametzyanov</string>
-    <string name="app_developer_nick" translatable="false">T8RIN</string>
+    <string name="app_developer" translatable="false">Malik M. Mod by Aswin.</string>
+    <string name="app_developer_nick" translatable="false">NA</string>
     <string name="no_updates">No updates found</string>
     <string name="issue_tracker">Issue tracker</string>
     <string name="issue_tracker_sub">Send here bug reports and feature requests</string>
@@ -119,7 +119,7 @@
     <string name="telegram" translatable="false">Telegram</string>
     <string name="email" translatable="false">Email</string>
     <string name="github" translatable="false">GitHub</string>
-    <string name="developer_email" translatable="false">t8rin@bk.ru</string>
+    <string name="developer_email" translatable="false">null@null.null</string>
     <string name="primary">Primary</string>
     <string name="tertiary">Tertiary</string>
     <string name="secondary">Secondary</string>
